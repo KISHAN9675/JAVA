@@ -1,1 +1,3 @@
-1
+public class a{
+    
+}
