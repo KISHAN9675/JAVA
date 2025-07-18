@@ -1,4 +1,3 @@
-import java.lang.runtime.SwitchBootstraps;
 import java.util.Scanner;
 
 public class Unit3pr2switch{ 
