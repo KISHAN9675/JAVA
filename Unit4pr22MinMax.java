@@ -11,8 +11,8 @@ public class Unit4pr22MinMax {
                 min = arr1[i];
             }
         }
-        System.out.println("max= "+max);
-        System.out.println("min= "+min);
+        System.out.println("max= " +max);
+        System.out.println("min= " +min);
     }
     
 }
